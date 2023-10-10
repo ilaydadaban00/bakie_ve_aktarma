@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\bin\Debug\global değişken özellikleri1550.exe.config
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\bin\Debug\global değişken özellikleri1550.exe
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\bin\Debug\global değişken özellikleri1550.pdb
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global değişken özellikleri1550.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global değişken özellikleri1550.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global_değişken_özellikleri1550.Form1.resources
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global_değişken_özellikleri1550.Properties.Resources.resources
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global değişken özellikleri1550.csproj.GenerateResource.cache
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global değişken özellikleri1550.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global değişken özellikleri1550.exe
+C:\Users\User\source\repos\global değişken özellikleri1550\global değişken özellikleri1550\obj\Debug\global değişken özellikleri1550.pdb
